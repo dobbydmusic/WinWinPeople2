@@ -105,7 +105,9 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".btn": {
               "font-size": "17px",
@@ -282,7 +284,9 @@
             },
             ".mbr-section-title": {
               "font-size": "32px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".btn": {
               "font-size": "20px",
