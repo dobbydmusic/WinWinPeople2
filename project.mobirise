@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo-128x128.png",
     "noImageResize": ""
@@ -58,7 +58,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -122,7 +122,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -173,7 +173,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/ivanmarin/Library/Application%20Support/Mobirise.com/Mobirise/projectData/brown_shadow_background_black_65799_3840x1200-2000x625.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
@@ -229,7 +229,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -255,7 +255,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -289,7 +289,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#faaf40",
+            "bgColor": "#f4973f",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
