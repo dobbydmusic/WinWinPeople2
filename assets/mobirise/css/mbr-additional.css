@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -427,6 +428,7 @@ h6,
 }
 #msg-box3-d .btn {
   font-size: 17px;
+  font-family: 'Bitter', serif;
 }
 #form1-0 .form-control-label {
   color: #232323;
@@ -452,9 +454,8 @@ h6,
 #footer1-2 P {
   color: #000000;
 }
-#footer1-4 P {
-  color: #000000;
-}
+
+
 #msg-box3-b .mbr-section-title,
 #msg-box3-b p {
   color: #000;
@@ -462,4 +463,18 @@ h6,
 #msg-box3-b .mbr-section-title {
   font-size: 32px;
   text-align: center;
+}
+#msg-box3-b .btn {
+  font-size: 20px;
+  font-family: 'Bitter', serif;
+}
+#header3-f .mbr-section-title,
+#header3-f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f H3 {
+  font-size: 14px;
+  font-family: 'Bitter', serif;
+  text-align: right;
+  color: #232323;
 }
